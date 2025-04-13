@@ -1,0 +1,21 @@
+$mainBg: #FFFFFF;
+$darkBg: #505862;
+$lightBg: #F8FCFF;
+$primaryColor: #000000;
+
+
+
+body {
+	font-family: Arial, sans-serif;
+	color: $primaryColor;
+	background: $mainBg;
+}
+
+.container{
+	width: 100%;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 20px;
+	height: 100%;
+}
