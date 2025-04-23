@@ -14,4 +14,10 @@ import TheFooter from './components/TheFooter.vue';
 </template>
 
 <style scoped>
+*{
+  	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+  	list-style: none;
+}
 </style>
